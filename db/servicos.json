@@ -1,0 +1,18 @@
+ {
+    "Internet" : [
+   { "id" : 1 , "100MB" :   14.90  },
+   { "id" : 2 , "200MB" :   30.00  },
+   { "id" : 3 , "300MB" :   79.00  }
+   ],
+    "TV" : [
+   { "id" : 1 , "Ultimate HD" : 120.00 },
+   { "id" : 2 , "Full HD" : 150.00 }
+   ],
+    "Fixo" : {
+     "id" : 1 , "Ilimitado Fixo brasil" : 50.00 },
+
+     "pedidos" : []
+   }
+
+
+   
